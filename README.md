@@ -1,6 +1,8 @@
 # rcm
 Regression control method (RCM) Use rcm With STATA 19
 
+https://www.youtube.com/watch?v=ItT7dCKAkyY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
